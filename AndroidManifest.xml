@@ -4,16 +4,15 @@
 	package="com.htc.sample.nextflight"
 	a:versionCode="1"
 	a:versionName="1.0"
-	>
-
-	<uses-permission a:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-	<uses-permission a:name="android.permission.INTERNET" />	
+	>	
 			
 	<uses-sdk 
 	    a:targetSdkVersion="15" 
 	    a:minSdkVersion="7"
 	    />
 	
+	<uses-permission a:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission a:name="android.permission.INTERNET" />
     <uses-permission a:name="android.permission.WAKE_LOCK"/>
     <uses-permission a:name="com.htc.idlescreen.permission.IDLESCREEN_SERVICE" />
 

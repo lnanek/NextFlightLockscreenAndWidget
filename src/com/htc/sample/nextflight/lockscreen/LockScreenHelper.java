@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.htc.sample.nextflight.lockscreen;
 
 import java.lang.reflect.InvocationTargetException;
