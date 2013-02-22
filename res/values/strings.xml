@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Next Flight Reminder</string>
+   	<string name="widget_label">Next Flight Reminder</string>
+	
+	<string name="company">Your Company</string>
+    <string name="desc">http://htcdev.com</string>
+    
+    <string name="lock_screen_dialog_instructions">
+        See a flight reminder on your phone\'s lock screen!
+        \n\nPick Next Flight Reminder from the Lock screen style chooser 
+        in your phone\'s personalize settings.
+    </string>
+    
+    <string name="edit_view_title">Next Flight Reminder</string>
+    
+    <string name="flight_name_label">Flight Name:</string>
+    
+    <string name="flight_name_example_text">AA Flight 03 (JFHDKS)</string>
+    
+    <string name="flight_details_label">Flight Details:</string>
+    
+    <string name="flight_details_example_text">Leaving 3PM Terminal 2 DFW</string>
+    
+    <string name="decorative_image_content_description"> </string>
+    
+    <string name="help_button">Help</string>
+    
+</resources>

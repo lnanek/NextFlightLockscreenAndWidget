@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IdleScreen>
+    <description>@string/desc</description> 
+    <author>@string/company</author> 
+    <thumbnail>@drawable/preview</thumbnail> 
+</IdleScreen>
